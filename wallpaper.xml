@@ -1,0 +1,130 @@
+<background>
+    <starttime>
+        <year>2021</year>
+        <month>01</month>
+        <day>01</day>
+        <hour>0</hour>
+        <minute>00</minute>
+        <second>00</second>
+    </starttime>
+    <!-- 00:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-1.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-1.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-2.jpg</to>
+    </transition>
+    <!-- 02:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-2.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-2.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-3.jpg</to>
+    </transition>
+    <!-- 04:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-3.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-3.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-4.jpg</to>
+    </transition>
+    <!-- 06:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-4.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-4.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-5.jpg</to>
+    </transition>
+    <!-- 08:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-5.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-5.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-6.jpg</to>
+    </transition>
+    <!-- 10:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-6.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-6.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-7.jpg</to>
+    </transition>
+    <!-- 12:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-7.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-7.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-8.jpg</to>
+    </transition>
+    <!-- 14:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-8.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-8.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-9.jpg</to>
+    </transition>
+    <!-- 16:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-9.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-9.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-10.jpg</to>
+    </transition>
+    <!-- 18:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-10.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-10.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-11.jpg</to>
+    </transition>
+    <!-- 20:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-11.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-11.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-12.jpg</to>
+    </transition>
+    <!-- 22:00 -->
+    <static>
+        <duration>7195.0</duration>
+        <file>$HOME/lakeside-wallpaper/dear-12.jpg</file>
+    </static>
+    <transition type="overlay">
+        <duration>5.0</duration>
+        <from>$HOME/lakeside-wallpaper/dear-12.jpg</from>
+        <to>$HOME/lakeside-wallpaper/dear-1.jpg</to>
+    </transition>
+</background>
