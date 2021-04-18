@@ -1,0 +1,24 @@
+#!/bin/bash
+
+set -e
+
+WALLPAPER_FOLDER="$HOME/lakeside-wallpaper"
+WALLPAPER_FOLDER="${1:-"$WALLPAPER_FOLDER"}"
+
+echo "> Installing on folder $WALLPAPER_FOLDER"
+
+echo "> Creating folder..."
+
+mkdir -p $WALLPAPER_FOLDER
+
+echo "> Moving files..."
+
+cp -r dear-*.jpg $WALLPAPER_FOLDER
+
+envsubst < wallpaper.xml > $WALLPAPER_FOLDER/wallpaper.xml
+
+echo "> Setting wallpaper..."
+
+gsettings set org.gnome.desktop.background picture-uri "file://$WALLPAPER_FOLDER/wallpaper.xml"
+
+echo "> Finished! :)"
